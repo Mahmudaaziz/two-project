@@ -1,0 +1,67 @@
+.bang{
+    color: beige;
+    background: #9f0808d1;
+    text-align: center;
+    font-size: 52px;
+    padding: 11px;
+}
+.bangimg{
+    width: 100%;
+}
+.about{
+    text-align: center;
+    background: beige;
+    margin: 0px;
+    padding: 2px;
+}
+.about h3{
+    font-size: 32px;
+}
+.about p{
+    text-align: justify;
+   
+    padding: 20px;
+    margin-top: -23px;
+}
+.imageo{
+    width: 50%; 
+}
+.imaget{
+    width: 49%;
+}
+.fact{
+    width: 1024px;
+    background: #353c26;
+    color: white;
+    border-radius: 24px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border: 8px solid #d3b117;
+    margin-left: 183px;
+    margin-bottom: 8px;
+}
+.fact h1{
+    text-align: center;
+}
+.fact h1 span{
+    color: red;
+}
+.fact p{
+    text-align: center;
+}
+.factt{
+    width: 1367px;
+    background: #353c26;
+    color: white;
+    border-radius: 24px;
+    padding: 10px;
+    text-decoration: none;
+    border: 8px solid #d3b117;
+}
+.factt h1 {
+    text-align: center;
+}
+.gallary{
+    width: 466px;
+}
