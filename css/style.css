@@ -1,3 +1,29 @@
+.menubar{
+   
+}
+.menubarone nav{}
+.menubarone nav ul{
+    
+}
+.menubarone nav ul li{
+     display: inline;
+   
+}
+.menubarone nav ul li a{
+    color: #240101;
+    text-transform: uppercase;
+    padding: 10px;
+    text-decoration: none;
+}
+.menubarone nav ul :hover{
+     background: black;
+     color: white;
+     border-radius: px;
+}
+.back{
+   margin-left: 390px;
+}
+
 .bang{
     color: beige;
     background: #9f0808d1;
@@ -50,6 +76,14 @@
 .fact p{
     text-align: center;
 }
+.fact ul{
+    text-align: center;
+    
+}
+.fact ul li{
+    text-align: center;
+    text-decoration: none;
+}
 .factt{
     width: 1367px;
     background: #353c26;
@@ -62,6 +96,31 @@
 .factt h1 {
     text-align: center;
 }
-.gallary{
-    width: 466px;
+.gall{
+   color: red;
+   text-align: center;
 }
+.gallary{
+  display: inline-flex;
+}
+.gallaryi{
+    width: 469px;
+}
+.button{
+    padding: 10px;
+    background-color: #04000e;
+    color: aliceblue;
+    margin-left: 97px;
+    margin-top: -5px;
+    border: 3px solid #e3c609;
+    border-radius: 19px;
+    width: 300px;
+  }
+  .button:hover{
+       padding: 10px;
+    background-color: #120101;
+    color: rgb(230 239 229);
+    width: 470px;
+    border-radius: 0px;
+    margin-left: 0px;
+  }
